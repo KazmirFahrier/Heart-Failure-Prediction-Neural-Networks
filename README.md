@@ -1,7 +1,7 @@
 <h1>Heart Failure Prediction — Neural Networks (HW2)</h1>
 
 <p>
-This notebook extends the HF pipeline with a <strong>PyTorch</strong> classifier. We implement core activations
+This project extends the HF pipeline with a <strong>PyTorch</strong> classifier. We implement core activations
 from scratch, verify a single-layer forward pass, and train a compact MLP on the SVMLight features
 produced in HW1. Below are the exact settings and observed results from the finalized run.
 </p>
